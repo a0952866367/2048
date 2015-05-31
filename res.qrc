@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/2.png</file>
+        <file>icon/4.png</file>
+        <file>icon/8.png</file>
+        <file>icon/16.png</file>
+        <file>icon/32.png</file>
+        <file>icon/64.png</file>
+        <file>icon/128.png</file>
+        <file>icon/256.png</file>
+        <file>icon/512.png</file>
+        <file>icon/1024.png</file>
+        <file>icon/2048.png</file>
+        <file>icon/4096.png</file>
+        <file>icon/8192.png</file>
+        <file>icon/color.jpg</file>
+        <file>icon/loser.jpeg</file>
+        <file>icon/winner.jpeg</file>
+    </qresource>
+</RCC>
